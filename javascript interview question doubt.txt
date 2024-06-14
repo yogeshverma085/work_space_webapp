@@ -1,0 +1,13 @@
+What is the difference between ViewState and SessionState?
+What is a prompt box?
+Explain how to read and write a file using JavaScript?
+	The readFile() functions is used for reading operation.
+	readFile( Path, Options, Callback)
+	The writeFile() functions is used for writing operation.
+	writeFile( Path, Data, Callback)
+24. What is called Variable typing in JavaScript ?
+30. What is the use of void(0) ?
+	The void(0) is used to call another method without refreshing the page during the calling time parameter 	“zero” will be passed.
+31. What is the ‘Strict’ mode in JavaScript and how can it be enabled?
+33. How to explain closures in JavaScript and when to use it?
+34. What is the difference between call() and apply() methods ?
